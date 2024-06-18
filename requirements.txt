@@ -1,3 +1,4 @@
 pandas
 streamlit
 plotly==5.9.0
+openpyxl
